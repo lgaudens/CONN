@@ -129,7 +129,7 @@
     <elementParameter field="QUERYSTORE_TYPE" name="QUERYSTORE" value="" show="false"/>
     <elementParameter field="TECHNICAL" name="QUERYSTORE:REPOSITORY_QUERYSTORE_TYPE" value="" show="false"/>
     <elementParameter field="TECHNICAL" name="QUERYSTORE:QUERYSTORE_TYPE" value="BUILT_IN"/>
-    <elementParameter field="PASSWORD" name="configuration.dataset.datastore.token" value="enc:system.encryption.key.v1:O6QsKXmBPVR4urjwxG8GF7GdatnHVXw7BdObrlWu"/>
+    <elementParameter field="PASSWORD" name="configuration.dataset.datastore.token" value="enc:system.encryption.key.v1:yHMApvhJuaUnUIPCecgBoA2H0jKFTRcbEDBC5M6flA=="/>
     <elementParameter field="TACOKIT_VALUE_SELECTION" name="configuration.dataset.configuration.model" value="gpt-3.5-turbo"/>
     <elementParameter field="TACOKIT_TEXT_AREA" name="configuration.dataset.configuration.prompt" value="Given the following addresses, guess the country names."/>
     <elementParameter field="TEXT" name="configuration.dataset.datastore.base" value="https://api.openai.com"/>
